@@ -5,7 +5,7 @@
 - **📚 High School Student**
 - **❤️ Telegram**
 
-## Profile views counter
+## Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{Arun-TG}/count.svg)
 ## GitHub Status
 <p align="center">
