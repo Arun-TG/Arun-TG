@@ -12,13 +12,13 @@
 [![Spotify](https://img.shields.io/badge/Spotify-18d860.svg?logo=spotify&logoColor=black)](https://open.spotify.com/user/316l7fvmudvmjjfnv4vw6adcdjn4)
 
 ## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) 
-![Railway](https://img.shields.io/badge/railway-170e29.svg?style=plastic&logo=railway&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)](https://vercel.com)
+[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)](https://heroku.com)
+[![Railway](https://img.shields.io/badge/Railway-170e29.svg?style=plastic&logo=railway&logoColor=white)](https://railway.app)
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)](https://lightroom.adobe.com)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arun017s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
